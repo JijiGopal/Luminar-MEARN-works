@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    margin-left: 40px;
+}
+
+fieldset{
+    height: 250px;
+    width: 23%;
+    margin-left: 37.5%;
+    border: .1px solid rgb(232, 235, 236);
+    background-color: rgb(249, 249, 255);
+}
+#one{
+    margin-left: -109px;
+}
+
+#two{
+    margin-left: -95px;
+}
+
+#sign{
+    background-color: rgb(22, 165, 22);
+    height: 35px;
+    width: 82%;
+    border: .01px solid rgb(22, 58, 22);
+}
+
+#uname{
+    height: 28px;
+    width: 80%;
+}
+
+#pswd{
+    height: 28px;
+    width: 80%;
+}
+div{
+    border: 1px solid rgb(204, 207, 207);
+    height: 35px;
+    width: 24.5%;
+    margin-left: 37.5%;
+    margin-top: 25px;
+    
+}
+
+.footer{
+    margin-top: 100px;
+}

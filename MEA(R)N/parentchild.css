@@ -1,0 +1,56 @@
+.parent{
+    border: 1px solid black;
+    height: 400px;
+    width: 618px;
+    background-color: rgb(124, 25, 42);
+    position: relative;
+}
+
+.col1{
+    border: 1px solid white;
+    position: absolute;
+    height: 396px;
+    width: 119px;
+    background-color: rgb(136, 59, 136);
+}
+
+.col2{
+    border: 1px solid white;
+    position: absolute;
+    height: 396px;
+    width: 119px;
+    background-color: rgb(11, 59, 150);
+    left: 124px;
+}
+
+.col3{
+    border: 1px solid white;
+    position: absolute;
+    height: 396px;
+    width: 119px;
+    background-color: rgb(150, 67, 11);
+    left: 247.5px;
+}
+
+.col4{
+    border: 1px solid white;
+    position: absolute;
+    height: 396px;
+    width: 119px;
+    background-color: rgb(201, 15, 176);
+    left: 371px;
+}
+
+.col5{
+    border: 1px solid white;
+    position: absolute;
+    height: 396px;
+    width: 119px;
+    background-color: rgb(24, 109, 3);
+    left: 494px;
+} 
+
+.right{
+    top: -402px;
+    left: 621px;
+}

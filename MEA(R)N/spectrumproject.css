@@ -1,0 +1,139 @@
+div{
+    height: 100px;
+    width: 8%;
+}
+body{
+    background-color: black;
+    
+}
+h1{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+.set1{
+    background-color: rgb(65, 67, 69);
+    margin-top: 5%;
+    margin-left: 25%;
+}
+
+ .set2{
+      background-color: rgb(74, 102, 86);
+      margin-top: -10%;
+      margin-left: 35%;
+}
+
+.set3{
+    background-color: rgb(59, 163, 104);
+    margin-top: -10%;
+    margin-left: 45%;
+}
+
+.set4{
+    background-color: rgb(89, 212, 89);
+    margin-top: -10%;
+    margin-left: 55%;
+}
+
+.set5{
+    background-color: rgb(230, 245, 230);
+    margin-top: -10%;
+    margin-left: 65%;
+}
+
+.set6{
+    background-color: rgb(255, 182, 23);
+    margin-top: 3%;
+    margin-left: 15%;
+}
+
+.set7{
+    background-color: rgb(227, 134, 148);
+    margin-top: -10%;
+    margin-left: 25%;
+}
+
+.set8{
+    background-color: rgb(212, 171, 198);
+    margin-top: -10%;
+    margin-left: 35%;
+}
+
+.set9{
+    background-color: rgb(133, 114, 148);
+    margin-top: -10%;
+    margin-left: 45%;
+}
+
+.set10{
+    background-color: rgb(111, 28, 176);
+    margin-top: -10%;
+    margin-left: 55%;
+}
+
+.set11{
+    background-color: rgb(132, 95, 161);
+    margin-top: -10%;
+    margin-left: 65%;
+}
+
+.set12{
+    background-color: rgb(99, 95, 102);
+    margin-top: -10%;
+    margin-left: 75%;
+}
+
+.set13{
+    background-color: rgb(124, 220, 222);
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+.set14{
+    background-color: rgb(221, 250, 192);
+    margin-top: -10%;
+    margin-left: 15%;
+}
+
+.set15{
+    background-color: rgb(245, 182, 127);
+    margin-top: -10%;
+    margin-left: 25%;
+}
+
+.set16{
+    background-color: rgb(161, 19, 121);
+    margin-top: -10%;
+    margin-left: 35%;
+}
+
+.set17{
+    background-color: rgb(79, 24, 48);
+    margin-top: -10%;
+    margin-left: 45%;
+}
+
+.set18{
+    background-color: rgb(69, 191, 162);
+    margin-top: -10%;
+    margin-left: 55%;
+}
+
+.set19{
+    background-color: rgb(73, 186, 137);
+    margin-top: -10%;
+    margin-left: 65%;
+}
+
+.set20{
+    background-color: rgb(120, 83, 150);
+    margin-top: -10%;
+    margin-left: 75%;
+}
+
+.set21{
+    background-color: rgb(88, 68, 97);
+    margin-top: -10%;
+    margin-left: 85%;
+}  

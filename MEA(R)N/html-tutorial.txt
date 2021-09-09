@@ -1,0 +1,29 @@
+semantics 
+
+html auto-code- shift+!+enter 
+
+aside
+footer
+main section
+header
+ 
+
+ * autorename extension dowld (oru side il change varumbol automatically  )
+
+ * html tagwrap- for converting text automatically to paragraph
+   select text and press alt+w
+
+*lorem- (dummy data) paragraph generated automatically
+
+* live server extension installation
+
+
+font awesome site can used to add icons
+ 
+  
+
+  
+
+
+  
+

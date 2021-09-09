@@ -1,0 +1,50 @@
+.parent{
+    border: 1px solid black;
+    height: 950px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: burlywood;
+}
+
+img{
+    height: 280px;
+    width: 330px;
+    padding: 8px;
+    
+}
+
+.col{
+    border: 1px solid rgb(95, 177, 28);
+    height: 430px;
+    padding: 2px;
+
+}
+
+.parent2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: -480px;
+}
+
+.buynow{
+    background-color: rgb(155, 145, 127);
+    height: 40px;
+    width: 100px;
+    margin-left: 123px;
+}
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(234, 140, 247);
+    height: 55px;
+    width: 100%;
+    align-items: center;
+}
+
+header a{
+    color: rgb(5, 5, 5);
+    padding: 100px;
+    text-decoration: none;
+}

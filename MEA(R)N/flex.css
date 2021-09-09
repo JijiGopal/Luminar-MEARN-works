@@ -1,0 +1,47 @@
+.parent{
+    height: 450px;
+    width: 550px;
+    background-color: rgb(124, 25, 42);
+    display: flex;
+    /* justify-content: flex-end;
+    justify-content: space-evenly; */
+    /* align-items: center; */
+    justify-content: space-around;
+}
+
+.col{
+    width: 100px;
+    height: 350px;
+    padding: 20px; 
+    /* to align the content inside the div */
+}
+
+.col1{
+    
+    background-color: rgb(136, 59, 136);
+    flex: 1;
+}
+
+.col2{
+    
+    background-color: rgb(11, 59, 150); 
+    flex: 2; 
+}
+
+.col3{
+
+    background-color: rgb(150, 67, 11);
+    flex: 3;
+}
+
+.col4{
+   
+    background-color: rgb(201, 15, 176);   
+    flex: 4;
+}
+
+.col5{
+   
+    background-color: rgb(24, 109, 3); 
+    flex: 5;   
+} 

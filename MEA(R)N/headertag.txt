@@ -1,0 +1,17 @@
+two types tags are there in html
+ 1) Block element
+    h1...h6
+    p
+
+
+ 2) InLine element
+    a
+    strong
+
+    make the code in order -- right click=>click on "format document"
+
+to highlight a word from the pragrapgh use "<strong>" tag
+
+to repeat the same tag type the tag and use * then type number 
+eg  "a*5 "
+
