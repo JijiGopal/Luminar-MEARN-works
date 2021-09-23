@@ -2,9 +2,10 @@
 
 // console.log();
 
-var name="Jijina";
+var name1="Jijina";
 var age=21;
-console.log(name);
-console.log(age);
+console.log(age,name1);
 
-console.log("Hi, I am "+name+","+age+" years old.");
+
+
+console.log(`my name is ${name1} , age is ${age}`);
